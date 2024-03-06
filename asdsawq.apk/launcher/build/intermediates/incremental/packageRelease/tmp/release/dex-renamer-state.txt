@@ -1,0 +1,4 @@
+#Tue Mar 05 22:25:53 EST 2024
+base.0=C\:\\Users\\troy\\Desktop\\My project\\asdsawq.apk\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
